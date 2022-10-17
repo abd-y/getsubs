@@ -5,5 +5,5 @@ After searching for subdomains from crt.sh some of them contain *, use this tool
 # Installation
 git clone 
 
-#Usage
+# Usage
 Usage: getsubs [FileName]

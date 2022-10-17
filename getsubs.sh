@@ -6,7 +6,7 @@ crtsh(){
 
 if [ -z $1 ]
 then
-	echo "Usage: getsubs FileName"
+	echo "Usage: getsubs [FileName]"
 
 else
 	while read p;
